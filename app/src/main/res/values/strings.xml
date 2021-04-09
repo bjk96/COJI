@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">코로나지겹다</string>
+    <string name="home">홈</string>
+    <string name="korea_situation">국내현황</string>
+    <string name="world_situation">세계현황</string>
+    <string name="screening_center">선별진료소</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">설정</string>
+    <string name="nation">국가</string>
+    <string name="open_license">오픈 라이선스</string>
+</resources>

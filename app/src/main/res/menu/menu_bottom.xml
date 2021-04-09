@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24" />
+
+    <item
+        android:id="@+id/bottom_situation_korea"
+        android:title="@string/korea_situation"
+        android:icon="@drawable/ic_baseline_menu_24" />
+
+    <item
+        android:id="@+id/bottom_situation_world"
+        android:title="@string/world_situation"
+        android:icon="@drawable/ic_baseline_language_24" />
+
+    <item
+        android:id="@+id/bottom_screening_center"
+        android:title="@string/screening_center"
+        android:icon="@drawable/ic_baseline_local_hospital_24" />
+
+
+</menu>
